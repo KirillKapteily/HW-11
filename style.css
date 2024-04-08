@@ -1,0 +1,13 @@
+.top {
+    border-radius: 10px;
+    background-color: rgb(112, 112, 141);
+    border-color: aquamarine;
+    border-style: ridge;
+    border-width: 10px;
+    height: 220px;
+    width: 350px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
